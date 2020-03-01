@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\4 sem\\ПО\\Lab2_Pairs2\\Lab2_Pairs2.csproj": {}
+    "C:\\Users\\tules\\Documents\\Study\\Labs and practice\\2 Curse\\2 Semestr\\SOFTWARE development tools\\2 Lab Pairs 2\\Lab2_Pairs2\\Lab2_Pairs2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\4 sem\\ПО\\Lab2_Pairs2\\Lab2_Pairs2.csproj": {
+    "C:\\Users\\tules\\Documents\\Study\\Labs and practice\\2 Curse\\2 Semestr\\SOFTWARE development tools\\2 Lab Pairs 2\\Lab2_Pairs2\\Lab2_Pairs2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\4 sem\\ПО\\Lab2_Pairs2\\Lab2_Pairs2.csproj",
+        "projectUniqueName": "C:\\Users\\tules\\Documents\\Study\\Labs and practice\\2 Curse\\2 Semestr\\SOFTWARE development tools\\2 Lab Pairs 2\\Lab2_Pairs2\\Lab2_Pairs2.csproj",
         "projectName": "Lab2_Pairs2",
-        "projectPath": "C:\\Users\\USER\\Desktop\\4 sem\\ПО\\Lab2_Pairs2\\Lab2_Pairs2.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\4 sem\\ПО\\Lab2_Pairs2\\obj\\",
+        "projectPath": "C:\\Users\\tules\\Documents\\Study\\Labs and practice\\2 Curse\\2 Semestr\\SOFTWARE development tools\\2 Lab Pairs 2\\Lab2_Pairs2\\Lab2_Pairs2.csproj",
+        "packagesPath": "C:\\Users\\tules\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tules\\Documents\\Study\\Labs and practice\\2 Curse\\2 Semestr\\SOFTWARE development tools\\2 Lab Pairs 2\\Lab2_Pairs2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\tules\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,7 +6,8 @@ namespace Lab2_Pairs2
     {
         static void Main(string[] args)
         {
-           Console.WriteLine(Multiply.Multiplication(2,5));
+            Multiply.Multiplication(2,5);
+            Multiply.Print();
         }
     }
 }

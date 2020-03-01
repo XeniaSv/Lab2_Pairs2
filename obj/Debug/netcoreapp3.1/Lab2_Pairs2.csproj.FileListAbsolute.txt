@@ -9,3 +9,14 @@ C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\bin\Debug\netcoreapp3.1\Lab2_Pairs2
 C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\bin\Debug\netcoreapp3.1\Lab2_Pairs2.pdb
 C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\obj\Debug\netcoreapp3.1\Lab2_Pairs2.dll
 C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\obj\Debug\netcoreapp3.1\Lab2_Pairs2.pdb
+C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE development tools\2 Lab Pairs 2\Lab2_Pairs2\bin\Debug\netcoreapp3.1\Lab2_Pairs2.exe
+C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE development tools\2 Lab Pairs 2\Lab2_Pairs2\bin\Debug\netcoreapp3.1\Lab2_Pairs2.deps.json
+C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE development tools\2 Lab Pairs 2\Lab2_Pairs2\bin\Debug\netcoreapp3.1\Lab2_Pairs2.runtimeconfig.json
+C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE development tools\2 Lab Pairs 2\Lab2_Pairs2\bin\Debug\netcoreapp3.1\Lab2_Pairs2.runtimeconfig.dev.json
+C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE development tools\2 Lab Pairs 2\Lab2_Pairs2\bin\Debug\netcoreapp3.1\Lab2_Pairs2.dll
+C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE development tools\2 Lab Pairs 2\Lab2_Pairs2\bin\Debug\netcoreapp3.1\Lab2_Pairs2.pdb
+C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE development tools\2 Lab Pairs 2\Lab2_Pairs2\obj\Debug\netcoreapp3.1\Lab2_Pairs2.csprojAssemblyReference.cache
+C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE development tools\2 Lab Pairs 2\Lab2_Pairs2\obj\Debug\netcoreapp3.1\Lab2_Pairs2.AssemblyInfoInputs.cache
+C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE development tools\2 Lab Pairs 2\Lab2_Pairs2\obj\Debug\netcoreapp3.1\Lab2_Pairs2.AssemblyInfo.cs
+C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE development tools\2 Lab Pairs 2\Lab2_Pairs2\obj\Debug\netcoreapp3.1\Lab2_Pairs2.dll
+C:\Users\tules\Documents\Study\Labs and practice\2 Curse\2 Semestr\SOFTWARE development tools\2 Lab Pairs 2\Lab2_Pairs2\obj\Debug\netcoreapp3.1\Lab2_Pairs2.pdb
