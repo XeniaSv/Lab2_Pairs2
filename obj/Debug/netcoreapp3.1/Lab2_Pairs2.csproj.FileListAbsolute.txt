@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\obj\Debug\netcoreapp3.1\Lab2_Pairs2.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\obj\Debug\netcoreapp3.1\Lab2_Pairs2.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\obj\Debug\netcoreapp3.1\Lab2_Pairs2.AssemblyInfo.cs
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\bin\Debug\netcoreapp3.1\Lab2_Pairs2.exe
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\bin\Debug\netcoreapp3.1\Lab2_Pairs2.deps.json
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\bin\Debug\netcoreapp3.1\Lab2_Pairs2.runtimeconfig.json
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\bin\Debug\netcoreapp3.1\Lab2_Pairs2.runtimeconfig.dev.json
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\bin\Debug\netcoreapp3.1\Lab2_Pairs2.dll
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\bin\Debug\netcoreapp3.1\Lab2_Pairs2.pdb
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\obj\Debug\netcoreapp3.1\Lab2_Pairs2.dll
+C:\Users\USER\Desktop\4 sem\ПО\Lab2_Pairs2\obj\Debug\netcoreapp3.1\Lab2_Pairs2.pdb
